@@ -41,4 +41,4 @@
 <br>
 </div>
 
-![Snake animation](https://github.com/geraldopereirads/geraldopereirads/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/geraldopereirads//blob/output/github-contribution-grid-snake.svg)
