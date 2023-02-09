@@ -42,4 +42,4 @@
 <br>
 </div>
 
-
+![snake gif](https://github.com/Geraldopereirads/Geraldopereirads/blob/output/github-contribution-grid-snake.svg)
