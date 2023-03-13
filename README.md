@@ -17,7 +17,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/geraldopereiradsj)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geraldopereiradsj)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
-<a href = "mailto:geraldo.perierads@hotmail.com"> <img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:geraldo.perierads@hotmail.com"> <img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/geraldo-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
 
