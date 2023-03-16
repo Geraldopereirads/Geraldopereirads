@@ -7,7 +7,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=geraldopereirads&show_icons=true&count_private=true&hide_border=true&title_color=f3aa46&icon_color=f3aa46&text_color=ffffcf&bg_color=0d1117" alt="Geraldo Pereira github stats" /> 
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldopereirads&layout=compact&hide_border=true&title_color=f3aa46&text_color=ffffcf&bg_color=0d1117" />
+ </br> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldopereirads&layout=compact&hide_border=true&title_color=f3aa46&text_color=ffffcf&bg_color=0d1117" />
 </div>
   
 </br></br>
