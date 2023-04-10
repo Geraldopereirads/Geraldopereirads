@@ -9,6 +9,7 @@
   
  </br> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldopereirads&layout=compact&hide_border=true&title_color=f3aa46&text_color=ffffcf&bg_color=0d1117" />
 </div>
+
   
 
 <div align="center"> 
@@ -33,6 +34,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)&nbsp;
+  </br></br></br>
+  
+  ## “Aprender é a unica coisa que a mente não se cansa, nunca tem medo e nunca se arrepende” 
+  # ~Leonardo da Vinci
 
 
 
