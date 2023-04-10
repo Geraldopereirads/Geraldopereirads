@@ -36,7 +36,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)&nbsp;
   </br></br></br>
   
-  ## “Aprender é a unica coisa que a mente não se cansa, nunca tem medo e nunca se arrepende” 
+  ### “Aprender é a unica coisa que a mente não se cansa, nunca tem medo e nunca se arrepende” 
   # ~Leonardo da Vinci
 
 
