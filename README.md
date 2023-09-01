@@ -22,13 +22,13 @@
 
  
  ### Hard skills:
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=e34f26&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Styled-Compenents](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 ![React Router](https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=e34f26&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
