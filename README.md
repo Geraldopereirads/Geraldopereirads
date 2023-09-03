@@ -1,5 +1,4 @@
-## <div align="center"> Olá Mundo! Eu sou o Geraldo Pereira, Desenvolvedor Web Front-End 🖐️
-### <div align="center"> Estudante de Desenvolvimento Web Full-Stack na Kenzie Academy Brasil
+## <div align="center"> Olá Mundo! Eu sou o Geraldo Pereira, Desenvolvedor Web Full-Stack 🖐️
 ### <div align="center"> Apaixonado por Tecnologia e resolver problemas de forma criativa
   </br>
   
