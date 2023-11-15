@@ -42,7 +42,7 @@
 
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
-
+![WordPress](https://img.shields.io/badge/WordPress-0D1117.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 
   </br></br></br>
