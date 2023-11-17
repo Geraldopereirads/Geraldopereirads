@@ -32,15 +32,21 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/nestjs-0D1117.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
+![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![TRELLO](https://img.shields.io/badge/Trello-323330?style=for-the-badge&logo=trello&logoColor=white)
 </br>
 
+
+ </br>
+ 
 ### Studying in this moment:
+
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-0D1117.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
