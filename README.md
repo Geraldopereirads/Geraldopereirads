@@ -38,8 +38,8 @@
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/nestjs-0D1117.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![TRELLO](https://img.shields.io/badge/Trello-323330?style=for-the-badge&logo=trello&logoColor=white)
+![JEST](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=Jest&logoColor=white)
+![TRELLO](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=white)
 </br>
 
 
