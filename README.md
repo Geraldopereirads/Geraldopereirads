@@ -40,6 +40,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-0D1117.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![JEST](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=Jest&logoColor=white)
 ![TRELLO](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-0D1117.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 </br>
 
 
@@ -48,7 +49,7 @@
 ### Studying in this moment:
 
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-0D1117.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
 
 
   </br></br></br>
