@@ -13,7 +13,7 @@
 
 <div align="center"> 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.geraldopereira.com.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.geraldopereira.com.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/geraldopereiradsj)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geraldopereiradsj)
 <a href = "mailto:geraldo.perierads@hotmail.com"> <img src="https://img.shields.io/badge/-hotmail-0D1117?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
