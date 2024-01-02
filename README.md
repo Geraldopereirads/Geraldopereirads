@@ -57,8 +57,6 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{geraldopereiradsj}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{geraldopereirads}/count.svg" /></p> 
 <br>
 </div>
-
-![snake gif](https://github.com/Geraldopereirads/Geraldopereirads/blob/output/github-contribution-grid-snake.svg)
