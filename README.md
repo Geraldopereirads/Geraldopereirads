@@ -41,6 +41,9 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 </br>
  </br>
+
+### Studying at the moment
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
    
   ### “Aprender é a unica coisa que a mente não se cansa, nunca tem medo e nunca se arrepende” 
   # ~Leonardo da Vinci
