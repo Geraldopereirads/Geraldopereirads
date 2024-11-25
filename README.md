@@ -44,6 +44,8 @@
 ###  Bacharelado em engenharia de software
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
    
   ### “Aprender é a unica coisa que a mente não se cansa, nunca tem medo e nunca se arrepende” 
