@@ -1,11 +1,3 @@
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldopereirads&layout=compact&hide_border=true&title_color=f3aa46&text_color=ffffcf&bg_color=0d1117&cache_seconds=60" />
-</div>
-
-
-  
-
 <div align="center"> 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.geraldopereira.com.br)
