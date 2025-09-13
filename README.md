@@ -46,11 +46,4 @@
    
   ### “Aprender é a unica coisa que a mente não se cansa, nunca tem medo e nunca se arrepende” 
   # ~Leonardo da Vinci
-
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{geraldopereirads}/count.svg" /></p> 
-<br>
 </div>
