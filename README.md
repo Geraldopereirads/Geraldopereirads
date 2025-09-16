@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geraldo-pereirads/)
 
 ### 👋 Olá, eu sou o Geraldo!
-Sou desenvolvedor **Fullstack**, focado em criar soluções **robustas e escaláveis**.  
+Sou desenvolvedor **Fullstack**.  
 Atualmente estudo **Bacharelado em Engenharia de Software** e aprimoro minhas habilidades em **front-end e back-end**.
 
 ---
@@ -38,10 +38,13 @@ Atualmente estudo **Bacharelado em Engenharia de Software** e aprimoro minhas ha
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQLServer-007ACC?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-FF6600?style=for-the-badge)&nbsp;
 
 **Cloud / DevOps:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)&nbsp;
 ---
 
 ### 📖 Atualmente estudando
