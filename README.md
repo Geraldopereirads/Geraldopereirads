@@ -50,7 +50,7 @@ Atualmente estudo **Bacharelado em Engenharia de Software** e aprimoro minhas ha
 ---
 
 ### 📖 Atualmente estudando
-C# | .NET | Java | Spring | AWS | Engenharia de Software
+C# | .NET | AWS | AZURE | Engenharia de Software
 
 ---
 
