@@ -50,7 +50,11 @@ Atualmente estudo **Bacharelado em Engenharia de Software** e aprimoro minhas ha
 ---
 
 ### 📖 Atualmente estudando
-C# | .NET | AWS | AZURE | Engenharia de Software
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+[![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geraldo-pereirads/)
 
 ---
 
