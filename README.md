@@ -10,6 +10,20 @@ Atualmente estudo **Bacharelado em Engenharia de Software** e aprimoro minhas ha
 
 ---
 
+<div align="center">
+
+<br>
+<br>
+
+<h2> Github Status </h2>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldopereirads&layout=compact&theme=merko&locale=pt-br&border_color=99C24D"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geraldopereirads&show_icons=true&theme=merko&locale=pt-br&count_private=true&rank_icon=github&border_color=99C24D&hide=issues,contribs"/>
+
+
+
+</div>
+
+
 ### ⚡ Tecnologias que utilizo
 
 **Linguagens:**  
