@@ -76,8 +76,6 @@ Atualmente curso **Bacharelado em Engenharia de Computação** e aprimoro minhas
 
 ---
 
-### 🐍
-
 <div align="center">
 
 ![snake gif](https://raw.githubusercontent.com/geraldopereirads/geraldopereirads/output/github-contribution-grid-snake.svg)
