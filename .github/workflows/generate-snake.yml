@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite
+  workflow_dispatch:      # Permite rodar manualmente
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Gerar animação da cobrinha 🐍
+        uses: Platane/snk@v3
+        with:
+          github_user_name: geraldopereirads
+          outputs: dist/github-contribution-grid-snake.svg
+          color_snake: "#6f42c1"   # roxo neon que combina com o tema tokyonight
+
+      - name: Commit e push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Atualiza animação da cobrinha 🐍"
+          add: "dist/github-contribution-grid-snake.svg"
