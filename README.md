@@ -76,7 +76,7 @@ Atualmente curso **Bacharelado em Engenharia de Computação** e aprimoro minhas
 
 ---
 
-### 🐍 Minhas contribuições sendo devoradas pela cobrinha!
+### 🐍
 
 <div align="center">
 
