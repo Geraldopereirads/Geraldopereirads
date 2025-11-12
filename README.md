@@ -61,8 +61,6 @@ Atualmente curso **Bacharelado em Engenharia de Computação** e aprimoro minhas
 
 ---
 
-### 🧠 Nível de Proficiência (Automático)
-
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldopereirads&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=15)
