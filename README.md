@@ -6,10 +6,9 @@
 
 ### 👋 Olá, eu sou o Geraldo!
 Sou desenvolvedor **Fullstack**.  
-Atualmente estudo **Bacharelado em Engenharia de Software** e aprimoro minhas habilidades em **front-end e back-end**.
+Atualmente estudo **Bacharelado em Engenharia de Computação** e aprimoro minhas habilidades em **front-end e back-end**.
 
 ---
-
 
 ### ⚡ Tecnologias que utilizo
 
@@ -48,6 +47,7 @@ Atualmente estudo **Bacharelado em Engenharia de Software** e aprimoro minhas ha
 **Cloud / DevOps:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)&nbsp;
+
 ---
 
 ### 📖 Atualmente estudando
@@ -55,7 +55,15 @@ Atualmente estudo **Bacharelado em Engenharia de Software** e aprimoro minhas ha
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
-[![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geraldo-pereirads/)
+[![Engenharia de Computação](https://img.shields.io/badge/Engenharia%20de%20Computação-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geraldo-pereirads/)
+
+---
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldopereirads&layout=compact&langs_count=10&theme=radical&hide_border=true&border_radius=15)
+
+</div>
 
 ---
 
