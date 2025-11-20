@@ -59,15 +59,6 @@ Atualmente curso **Bacharelado em Engenharia de Computação** e aprimoro minhas
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 [![Engenharia de Computação](https://img.shields.io/badge/Engenharia%20de%20Computação-0A66C2?style=for-the-badge&logo=graduationcap&logoColor=white)](https://www.linkedin.com/in/geraldo-pereirads/)
 
----
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldopereirads&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=15)
-
-</div>
-
----
 
 > 💡 “Aprender é a única coisa que a mente não se cansa, nunca tem medo e nunca se arrepende.”  
 > — *Leonardo da Vinci*
