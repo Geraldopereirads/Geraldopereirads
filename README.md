@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Olá, Geraldo!
+# Olá, eu sou Geraldo!
  Atualmente curso **Bacharelado em Engenharia de Computação** e aprimoro minhas habilidades em **back-end e front-end e cloud / DevOps**.
 
 
