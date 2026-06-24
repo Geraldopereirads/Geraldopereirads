@@ -1,8 +1,7 @@
 <div align="center"> 
 
-# Olá, eu sou o Geraldo!
-## Sou desenvolvedor **Fullstack**, apaixonado por tecnologia e boas práticas de código.  
- Atualmente curso **Bacharelado em Engenharia de Computação** e aprimoro minhas habilidades em **back-end e front-end**, com foco em **aplicações performáticas escaláveis**.
+# Olá, Geraldo!
+ Atualmente curso **Bacharelado em Engenharia de Computação** e aprimoro minhas habilidades em **back-end e front-end e cloud / DevOps**.
 
 
 ### Redes Sociais
@@ -64,7 +63,7 @@
 
 
 
-> 💡 “Aprender é a única coisa que a mente não se cansa, nunca tem medo e nunca se arrepende.”  
+>  “Aprender é a única coisa que a mente não se cansa, nunca tem medo e nunca se arrepende.”  
 > — *Leonardo da Vinci*
 
 </div>
